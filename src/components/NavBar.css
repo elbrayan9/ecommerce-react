@@ -1,0 +1,6 @@
+.navbar{display:flex;align-items:center;gap:1rem;padding:1rem;background:#282c34}
+.brand{color:#61dafb;font-weight:700;text-decoration:none;font-size:1.25rem}
+.nav-links{display:flex;gap:1rem;list-style:none;margin:0}
+.nav-links a{color:#fff;text-decoration:none}
+.nav-links a.active{border-bottom:2px solid #61dafb}
+.cart{margin-left:auto;font-size:1.4rem;color:#fff;text-decoration:none}
